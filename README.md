@@ -46,5 +46,3 @@ I'm a passionate Data Engineer with expertise in designing, building, and mainta
 - [Personal Website](https://www.datascienceportfol.io/thiagopauli)
 - [Email](mailto:thiago.pauli26@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
-
